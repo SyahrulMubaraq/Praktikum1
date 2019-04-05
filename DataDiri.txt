@@ -1,0 +1,6 @@
+Nama      : Syahrul Mubaraq
+Nim       : 1929142041
+Kelas     : Tekom A
+Angkatan  : 2018
+
+Nama MK   : Struktur Data
